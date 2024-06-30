@@ -15,4 +15,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on a contacts application which is based on Google Contacts. I am trying to make a copy of it.
+- 🔭 "I'm currently developing a contacts application with the goal of making it identical to Google Contacts."
