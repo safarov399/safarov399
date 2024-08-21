@@ -21,7 +21,7 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch" width="40" height="40"/></a>
   <a href="https://kde.org/" target="_blank" rel="noreferrer"> <img src="https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-3000x3000.png" title="KDE Plasma" alt="KDE Plasma" width="40" height="40"/></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Pnso0sI.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/></a>
-  <a href="https://https://www.gnome.org//" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/desktop-environment-gnome-icon-2048x2048-gz1sqokj.png" title="Gnome" alt="Gnome" width="40" height="40"/></a>
+  <a href="https://https://www.gnome.org//" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/J58HjZi.png" title="Gnome" alt="Gnome" width="40" height="40"/></a>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
