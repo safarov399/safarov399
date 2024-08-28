@@ -34,4 +34,4 @@
 
 - 🔭 I am also interested in Science and particularly enjoy Organic Chemistry, Biochemistry and Thermodynamics.
   
-- 🤓 I use Arch btw.
+- 🤓 I use Arch btw. (formerly)
