@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I am Sultanmurad</h1>
-<h3 align="center">Android App Developer</h3>
+
 
 ### :fire: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=safarov399)](https://git.io/streak-stats)
@@ -34,4 +33,4 @@
 
 - 🔭 I am also interested in Science and particularly enjoy Organic Chemistry, Biochemistry and Thermodynamics.
   
-- 🤓 I use Arch btw. (formerly)
+- 🤓 I use Arch btw.
