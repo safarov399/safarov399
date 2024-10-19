@@ -25,12 +25,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I'm currently developing a contacts application with the goal of making it identical to Google Contacts.
+  Fan of technology (linux, networks, AI) and science (Thermodynamics, Organic Chemistry)
   
-- 🌱 I am currently learning about Android App development using Kotlin.
-  
-- 🔭 I am interested in Android, Linux, Computer hardware and software, Operating systems and low-level programming.
-
-- 🔭 I am also interested in Science and particularly enjoy Organic Chemistry, Biochemistry and Thermodynamics.
-  
-- 🤓 I use Arch btw.
+  former arch user
