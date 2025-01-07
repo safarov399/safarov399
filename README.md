@@ -21,6 +21,7 @@
   <a href="https://kde.org/" target="_blank" rel="noreferrer"> <img src="https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-3000x3000.png" title="KDE Plasma" alt="KDE Plasma" width="40" height="40"/></a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Pnso0sI.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://https://www.gnome.org//" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/J58HjZi.png" title="Gnome" alt="Gnome" width="40" height="40"/></a>
+  <a href="https://garudalinux.org/" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/uploads/-/system/project/avatar/23323742/dr460nized-start.png" title="Garuda Linux" alt="Garuda Linux" width="40" height="40"/></a>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
